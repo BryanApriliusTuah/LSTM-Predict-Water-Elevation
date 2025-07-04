@@ -3,6 +3,3 @@ uvicorn[standard]
 numpy
 tensorflow
 joblib
-pandas
-scikit-learn
-matplotlib
